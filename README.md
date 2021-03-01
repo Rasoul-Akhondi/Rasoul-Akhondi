@@ -20,4 +20,6 @@ I am Rasoul Akhoundi UI/UX designer with 2 years of professional experience. I'm
 ## Contact Me
 
 [![](https://img.shields.io/badge/-Website-black?style=for-the-badge&label=%F0%9F%8C%90)](https://rasoulakhoundi.ir/)
-[![](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=Telegram)](http://t.me/rasoulakhoundi)
+[![](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=Telegram)](https://telegram.me/rasoulakhoundi)
+[![](https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=Dribbble)](https://dribbble.com/RasoulAkhoundi)
+[![](https://img.shields.io/badge/-Mail-black?style=for-the-badge&logo=gmail)](mailto:rasoulakhondi@gmail.com)
