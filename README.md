@@ -19,4 +19,5 @@ I am Rasoul Akhoundi UI/UX designer with 2 years of professional experience. I'm
 
 ## Contact Me
 
-[![](https://img.shields.io/badge/-Website-black?style=for-the-badge&logo=🌐)](mailto:parham.alvani@gmail.com)
+[![](https://img.shields.io/badge/-Website-black?style=for-the-badge&label=%F0%9F%8C%90)](https://rasoulakhoundi.ir/)
+[![](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=Telegram)](http://t.me/rasoulakhoundi)
